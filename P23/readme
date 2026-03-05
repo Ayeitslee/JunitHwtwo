@@ -1,0 +1,9 @@
+### Function #23: Reverse String
+**Valid Inputs:**
+- str: `String` (Any valid string length)
+
+**Expected Output(s):**
+- reversedStr: `String` (The characters of the input string in reverse order)
+
+**Invalid Input Error Message:**
+- "Error: Cannot reverse a null string."
