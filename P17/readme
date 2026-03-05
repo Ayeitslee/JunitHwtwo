@@ -1,0 +1,9 @@
+### Function #17: Fahrenheit to Kelvin
+**Valid Inputs:**
+- fahrenheit: `double` (Range: -459.67 to 1,000,000.0)
+
+**Expected Output(s):**
+- kelvin: `double` (Formula: (f - 32) * 5/9 + 273.15)
+
+**Invalid Input Error Message:**
+- "Error: Temperature cannot be below absolute zero (-459.67°F)."
